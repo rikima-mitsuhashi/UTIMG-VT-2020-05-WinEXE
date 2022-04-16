@@ -31,7 +31,7 @@
 ```
 * Copy unzipped malware files to "virustotal" directory.
 ```
-find ./unzipped/malware/files -type f | xargs -i cp {} ./virustotal
+find /media/user/usb/Win32_EXE -type f | xargs -i cp {} ./virustotal
 ```
 
 
