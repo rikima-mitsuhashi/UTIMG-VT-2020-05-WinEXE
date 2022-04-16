@@ -6,7 +6,8 @@
 
 * When your papers use the dataset or script-tools, please cite the following paper.
 
-* COMPSAC
+R. Mitsuhashi and T. Shinagawa, "Exploring Optimal Deep Learning Models for Image-based Malware Variant Classification,"
+2022 IEEE 46rd Annual Computer Software and Applications Conference (COMPSAC), 2022.
 
 # How to create the dataset
 ### 1. Apply for the VirusTotal malware sample folder as an academic user
