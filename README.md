@@ -30,7 +30,7 @@
 ./00_make_directory.sh
 ```
 * Copy unzipped malware files to "virustotal" directory.
-* Check file type. 
+* Check the file type. 
 ```
 file ./virustotal/000a65b4dc39c24eda9987f2d0fd77a8f033526d3f986791598f350c2667da82
 ```
