@@ -1,3 +1,5 @@
+#!/bin/sh
+
 cp      ./class_labeling.txt                                                     ./dataset
 cd      ./malware_image
 cp      0270f2fefb61e80a1a954a8fe10030de8ad2e7b4407c61838f1b1bbe519b2d09.png     ../dataset/001

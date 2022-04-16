@@ -1,3 +1,5 @@
+#!/bin/sh
+
 cd      ./virustotal
 cp      0270f2fefb61e80a1a954a8fe10030de8ad2e7b4407c61838f1b1bbe519b2d09       ../malware
 cp      0302154adcf24e83b990935088430139845e2ac418c71d7f950942b7988d63f9       ../malware
