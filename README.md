@@ -31,7 +31,7 @@
 ```
 * Copy unzipped malware files to "virustotal" directory.
 ```
-find /<malware-file directory> -type f | xargs -i cp {} ./virustotal
+find ./unzipped/malware/files -type f | xargs -i cp {} ./virustotal
 ```
 
 
