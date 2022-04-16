@@ -32,9 +32,7 @@
 * Put unzipped malware files to "virustotal" directory.
 * Check file type. -> PE32 executable (GUI) Intel 80386 (stripped to external PDB), for MS Windows, PECompact2 compressed
 ```
-cd virustotal
-file 000a65b4dc39c24eda9987f2d0fd77a8f033526d3f986791598f350c2667da82
-cd ..
+file ./virustotal/000a65b4dc39c24eda9987f2d0fd77a8f033526d3f986791598f350c2667da82
 ```
 
 ### 5. Create dataset
