@@ -24,20 +24,25 @@
 * See the "README - VirusTotal Academic Malware Samples.docx."
 * Note that these are real malware.
 
-### 4. Make malware images
-* The following steps are confirmed in Ubuntu 20.04 LTS.
+### 4. Make directory and put malware files
+```
+./00_make_directory.sh
+```
 * Put unzipped malware files to "virustotal" directory.
+
+### 5. Create dataset
+* The following steps are confirmed in Ubuntu 20.04 LTS.
 ```
 sudo apt-get install pnmtopng
 ```
 ```
-./00_binary_copy.sh
+./01_binary_copy.sh
 ```
 ```
-./01_malwareimage.sh
+./02_malwareimage.sh
 ```
 ```
-./02_image_copy.sh
+./03_image_copy.sh
 ```
 
 
