@@ -1,4 +1,4 @@
-# The VT-May-2020-WinEXE-Malware-Image dataset
+# The VT-May-2020-WinEXE-Image dataset
 
 * To enable malware researchers to compare different classification approaches, we disclose how to create our dataset.
 
