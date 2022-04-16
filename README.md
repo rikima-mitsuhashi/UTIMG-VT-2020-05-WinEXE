@@ -46,7 +46,7 @@ sudo apt-get install pnmtopng
 ```
 
 
-### 5. Check the malware image samples
+### 6. Check the malware image samples
 ```
 cd ./dataset
 ```
