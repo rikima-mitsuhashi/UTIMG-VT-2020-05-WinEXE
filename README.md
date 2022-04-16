@@ -29,6 +29,9 @@
 ./00_make_directory.sh
 ```
 * Put unzipped malware files to "virustotal" directory.
+```
+find /mnt/hgfs/Ubuntu/Win32_EXE/ -type f | xargs -i cp {} ./virustotal/
+```
 
 ### 5. Create dataset
 * The following steps are confirmed in Ubuntu 20.04 LTS.
