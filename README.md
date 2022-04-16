@@ -25,16 +25,19 @@
 * Note that these are real malware.
 
 ### 4. Make directory and put malware files
+* The following steps are confirmed in Ubuntu 20.04 LTS.
 ```
 ./00_make_directory.sh
 ```
 * Put unzipped malware files to "virustotal" directory.
+* Check file type. -> PE32 executable (GUI) Intel 80386 (stripped to external PDB), for MS Windows, PECompact2 compressed
 ```
-find /mnt/hgfs/Win32_EXE/ -type f | xargs -i cp {} ./virustotal/
+cd virustotal
+file 000a65b4dc39c24eda9987f2d0fd77a8f033526d3f986791598f350c2667da82
+cd ..
 ```
 
 ### 5. Create dataset
-* The following steps are confirmed in Ubuntu 20.04 LTS.
 ```
 sudo apt-get install pnmtopng
 ```
