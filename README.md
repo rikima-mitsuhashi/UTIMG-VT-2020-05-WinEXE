@@ -58,7 +58,7 @@ sudo apt-get install pnmtopng
 ```
 
 
-### 6. Check the malware image samples
+### 6. Check the results
 ```
 tar zcvf dataset.tar.gz ./dataset
 ```
