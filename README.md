@@ -9,7 +9,7 @@
 * COMPSAC
 
 # How to create the dataset
-### 1. Apply for the VirusTotal premium service as a academic user
+### 1. Apply for the VirusTotal malware sample folder as a academic user
 
 * Apply at the VirusTotal site. If you are approved for an academic account, there is no charge.
 * https://www.virustotal.com/gui/home/upload
