@@ -4,7 +4,7 @@
 
 * This dataset contains 1,556 malware images from 18 different malware families. The original malware of the dataset are included in the VirusTotal malwere sample folder. 
 
-* When your papers use the dataset or shell scripts, please cite the following paper.
+* When your papers use the dataset or shell-scripts, please cite the following paper.
 
 * COMPSAC
 
