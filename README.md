@@ -26,7 +26,7 @@
 * See the "README - VirusTotal Academic Malware Samples.docx."
 * Note that these are real malware.
 
-### 4. Make directory and put malware files
+### 4. Make directory and copy malware files
 * The following steps are confirmed in Ubuntu 20.04 LTS.
 ```
 ./00_make_directory.sh
