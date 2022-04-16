@@ -42,7 +42,11 @@ sudo apt-get install pnmtopng
 
 
 ### 5. Check the malware image samples
-* dataset/001/0aa73b88b3f3272b04599d7d834b27ae42ff1dafa2403b5dccecc6ad817da863.png
+```
+cd ./dataset
+```
+
+* 001/0aa73b88b3f3272b04599d7d834b27ae42ff1dafa2403b5dccecc6ad817da863.png
 <img src="./sample01.png" width=10%>
-* dataset/002/1d6bddc4d5568ff753cfc4b9157222dbb0f2ded7378d3422c15f492810baa446.png
+* 002/1d6bddc4d5568ff753cfc4b9157222dbb0f2ded7378d3422c15f492810baa446.png
 <img src="./sample02.png" width=10%>
