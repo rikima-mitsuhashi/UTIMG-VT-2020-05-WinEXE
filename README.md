@@ -15,7 +15,7 @@
 * https://www.virustotal.com/gui/home/upload
 * Contact Us -> I have a commercial inquiry -> I am interested in premium services
 
-### 2. Access to VirusTotal malware sample folder 
+### 2. Access to the VirusTotal malware sample folder 
 
 * Move to 2020-05-06 folder.
 * Download Win32_EXE.7z.
