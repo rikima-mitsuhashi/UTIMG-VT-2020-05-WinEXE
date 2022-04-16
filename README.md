@@ -41,7 +41,7 @@ file ./virustotal/0e4d9bc8ddea1aa097399cc55a19f16760c12122080192933ee5d2541dd028
 ```
 -> PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed
 
-### 5. Create dataset
+### 5. Create the dataset
 ```
 sudo apt-get install pnmtopng
 ```
