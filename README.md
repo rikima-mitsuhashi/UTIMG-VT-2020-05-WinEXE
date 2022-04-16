@@ -37,9 +37,9 @@ find /media/user/usb/Win32_EXE -type f | xargs -i cp {} ./virustotal
 
 * Check the file type. 
 ```
-file ./virustotal/000a65b4dc39c24eda9987f2d0fd77a8f033526d3f986791598f350c2667da82
+file ./virustotal/0e4d9bc8ddea1aa097399cc55a19f16760c12122080192933ee5d2541dd02862
 ```
--> PE32 executable (GUI) Intel 80386 (stripped to external PDB), for MS Windows, PECompact2 compressed
+-> PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed
 
 ### 5. Create dataset
 ```
