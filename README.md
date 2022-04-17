@@ -4,18 +4,18 @@
 
 * This dataset contains 1,556 malware images from 18 different malware families. The original malware of the dataset are included in the VirusTotal malwere sample folder. 
 
-* When your papers use the dataset or script-tools, please cite the following paper.
+* If your papers use the dataset or the script-tools, please cite the following paper.
 
 * R. Mitsuhashi and T. Shinagawa, <br>
 "Exploring Optimal Deep Learning Models for Image-based Malware Variant Classification,"<br>
 *2022 IEEE 46rd Annual Computer Software and Applications Conference (COMPSAC), 2022.*
 
 # How to create the dataset
-### 1. Apply for the VirusTotal Malware Sample Folder as an academic user
+### 1. Apply for the VirusTotal Academic Malware Sample Folder
 
-* Apply at the VirusTotal site. If you are approved for an academic account, there is no charge.
 * https://www.virustotal.com/gui/home/upload
 * Contact Us -> I have a commercial inquiry -> I am interested in premium services
+* There is no charge for an academic account.
 
 ### 2. Access to the VirusTotal Malware Sample Folder 
 
