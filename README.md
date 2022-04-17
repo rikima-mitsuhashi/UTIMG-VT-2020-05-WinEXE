@@ -1,4 +1,4 @@
-# The UTIMG-VT-2020-05-WinEXE dataset <!--UTIMG-Drebin-AndroidDEX UTIMG-VT-2020-05-AndroidDEX-->
+# The UTIMG-VT-2020-05-WinEXE dataset
 
 * To enable malware researchers to compare different classification approaches, we disclose how to create our dataset.
 
