@@ -23,7 +23,7 @@
 * Download Win32_EXE.7z.
 
 ### 3. Unzip malware files
-* See the "README - VirusTotal Academic Malware Samples.docx."
+* See the README of VirusTotal Academic Malware Sample folder.
 * Note that these are real malware.
 
 ### 4. Make directory and copy malware files
