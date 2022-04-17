@@ -11,7 +11,7 @@
 *2022 IEEE 46rd Annual Computer Software and Applications Conference (COMPSAC), 2022.*
 
 # How to create the dataset
-### 1. Apply for the VirusTotal Malware Sample Folder
+### 1. Apply for access to the VirusTotal Malware Sample Folder
 
 * https://www.virustotal.com/gui/home/upload
 * Contact Us -> I have a commercial inquiry -> I am interested in premium services
@@ -19,11 +19,10 @@
 
 ### 2. Access to the VirusTotal Malware Sample Folder 
 
-* Move to 2020-05-06 folder.
-* Download Win32_EXE.7z.
+* Download Win32_EXE.7z from 2020-05-06 folder.
 
 ### 3. Unzip malware files
-* See the README of VirusTotal Malware Sample folder.
+* See the README of the VirusTotal Malware Sample folder.
 * Note that these are real malware.
 
 ### 4. Make directory and copy malware files
@@ -35,8 +34,6 @@
 ```
 find /media/user/usb/Win32_EXE -type f | xargs -i cp {} ./virustotal
 ```
-
-
 * Check the file type. 
 ```
 file ./virustotal/0e4d9bc8ddea1aa097399cc55a19f16760c12122080192933ee5d2541dd02862
