@@ -2,7 +2,7 @@
 
 * To enable malware researchers to compare different classification approaches, we disclose how to create our dataset.
 
-* This dataset contains 1,556 malware images from 18 different malware families. The original malware binary files are included in the VirusTotal malwere sample folder.
+* This dataset contains 1,556 malware images from 18 different malware families. The original malware binary programs are included in the VirusTotal malwere sample folder.
 
 * If your papers use the dataset or the script-tools for the dataset, please cite the following paper.
 
