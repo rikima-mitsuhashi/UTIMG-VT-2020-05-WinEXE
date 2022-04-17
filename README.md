@@ -1,4 +1,4 @@
-# The UTIMG-VT-2020-05-WinEXE dataset
+# The UTIMG-VT-May-2020-WinEXE dataset
 
 * To enable malware researchers to compare different classification approaches, we disclose how to create our dataset.
 
