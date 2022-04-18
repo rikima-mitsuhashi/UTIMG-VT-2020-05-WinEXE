@@ -27,7 +27,6 @@
 
 ### 4. Make directory and copy malware files
 * The following steps are confirmed in Ubuntu 20.04 LTS.
-
 ```
 ./00_make_directory.sh
 ```
@@ -59,18 +58,21 @@ sudo apt-get install pnmtopng
 
 ### 6. Check the results
 ```
-tar zcvf dataset.tar.gz ./dataset/*
+tar zcvf VirusTotal-May-2020-Windows-Image.tar.gz ./dataset
 ```
 ```
-sha256sum ./dataset.tar.gz
+sha256sum ./VirusTotal-May-2020-Windows-Image.tar.gz
 ```
 -> 285794ef7c0a4297e7d75e17d9c06bb205609d5ff7681788d12aed9f6f099bb3 
 ```
 cd ./dataset
 ```
-
-* 001/0aa73b88b3f3272b04599d7d834b27ae42ff1dafa2403b5dccecc6ad817da863.png
+```
+eog ./01/0aa73b88b3f3272b04599d7d834b27ae42ff1dafa2403b5dccecc6ad817da863.png
+```
 <img src="./sample01.png" width=10%>
 
-* 002/1d6bddc4d5568ff753cfc4b9157222dbb0f2ded7378d3422c15f492810baa446.png
+```
+eog ./02/1d6bddc4d5568ff753cfc4b9157222dbb0f2ded7378d3422c15f492810baa446.png
+```
 <img src="./sample02.png" width=10%>
