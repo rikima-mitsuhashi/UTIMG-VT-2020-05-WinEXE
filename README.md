@@ -59,7 +59,7 @@ sudo apt-get install pnmtopng
 
 ### 6. Check the results
 ```
-tar zcvf dataset.tar.gz ./dataset
+tar zcvf dataset.tar.gz ./dataset/*
 ```
 ```
 sha256sum ./dataset.tar.gz
