@@ -1,4 +1,4 @@
-# The VirusTotal-May-2020-Windows-Image dataset
+# The VirusTotal-May-2020-Windows-IMG dataset
 
 * To enable malware researchers to compare different classification approaches, we disclose how to create our dataset.
 
