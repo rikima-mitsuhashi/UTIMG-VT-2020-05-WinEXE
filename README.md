@@ -32,6 +32,7 @@
 ./00_make_directory.sh
 ```
 * Copy your unzipped malware files to "virustotal" directory.
+* /media/user/usb/Win32_EXE should be changed to suit your environment.
 ```
 find /media/user/usb/Win32_EXE -type f | xargs -i cp {} ./virustotal
 ```
