@@ -63,7 +63,7 @@ zip -r -X VirusTotal-May-2020-Windows-Image.zip ./dataset
 ```
 sha256sum ./VirusTotal-May-2020-Windows-Image.zip
 ```
--> e29c3faaeb282279d762724dfa1241506dcd2367e6704a37446eba711ae8901e
+-> 515cc17d5c1a01e2407806c80aa2c4b5a2b8464b9f2677ff9b44ebe58f477271
 ```
 eog ./dataset/01/0aa73b88b3f3272b04599d7d834b27ae42ff1dafa2403b5dccecc6ad817da863.png &
 ```
