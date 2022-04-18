@@ -67,12 +67,12 @@ sha256sum ./VirusTotal-May-2020-Windows-Image.tar.gz
 ```
 eog ./dataset/01/0aa73b88b3f3272b04599d7d834b27ae42ff1dafa2403b5dccecc6ad817da863.png &
 ```
-<img src="./sample01.png" width=10%>
+<img src="./sample01.jpg" width=10%>
 
 ```
 eog ./dataset/02/1d6bddc4d5568ff753cfc4b9157222dbb0f2ded7378d3422c15f492810baa446.png &
 ```
-<img src="./sample02.png" width=10%>
+<img src="./sample02.jpg" width=10%>
 
 # References
 * The VirusTotal-May-2020-Android-Image dataset
