@@ -27,12 +27,13 @@
 
 ### 4. Make directory and copy malware files
 * The following steps are confirmed in Ubuntu 20.04 LTS.
+* Bold text should be changed to suit your environment.
 ```
 ./00_make_directory.sh
 ```
 * Copy your unzipped malware files to "virustotal" directory.
 ```
-find /media/user/usb/Win32_EXE -type f | xargs -i cp {} ./virustotal
+find \textbf{/media/user/usb/Win32_EXE} -type f | xargs -i cp {} ./virustotal
 ```
 * Check the file type. 
 ```
