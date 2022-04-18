@@ -65,15 +65,12 @@ sha256sum ./VirusTotal-May-2020-Windows-Image.tar.gz
 ```
 -> 7558b4929fd3dc0ba6dcd54b46ae3ccaacfc02caebe0a8535bdb4a5a4a83ca69 
 ```
-cd ./dataset
-```
-```
-eog ./01/0aa73b88b3f3272b04599d7d834b27ae42ff1dafa2403b5dccecc6ad817da863.png
+eog ./dataset/01/0aa73b88b3f3272b04599d7d834b27ae42ff1dafa2403b5dccecc6ad817da863.png &
 ```
 <img src="./sample01.png" width=10%>
 
 ```
-eog ./02/1d6bddc4d5568ff753cfc4b9157222dbb0f2ded7378d3422c15f492810baa446.png
+eog ./dataset/02/1d6bddc4d5568ff753cfc4b9157222dbb0f2ded7378d3422c15f492810baa446.png &
 ```
 <img src="./sample02.png" width=10%>
 
