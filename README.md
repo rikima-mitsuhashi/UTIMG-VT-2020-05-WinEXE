@@ -63,7 +63,7 @@ tar zcvf VirusTotal-May-2020-Windows-Image.tar.gz ./dataset
 ```
 sha256sum ./VirusTotal-May-2020-Windows-Image.tar.gz
 ```
--> 285794ef7c0a4297e7d75e17d9c06bb205609d5ff7681788d12aed9f6f099bb3 
+-> 7558b4929fd3dc0ba6dcd54b46ae3ccaacfc02caebe0a8535bdb4a5a4a83ca69 
 ```
 cd ./dataset
 ```
