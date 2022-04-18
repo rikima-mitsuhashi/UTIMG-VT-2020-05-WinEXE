@@ -58,7 +58,7 @@ sudo apt-get install pnmtopng
 
 ### 6. Check the results
 ```
-tar zcvf VirusTotal-May-2020-Windows-Image.tar.gz ./dataset
+zip -X VirusTotal-May-2020-Windows-Image.zip ./dataset
 ```
 ```
 sha256sum ./VirusTotal-May-2020-Windows-Image.tar.gz
