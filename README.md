@@ -75,7 +75,7 @@ eog ./dataset/02/1d6bddc4d5568ff753cfc4b9157222dbb0f2ded7378d3422c15f492810baa44
 <img src="./sample02.jpg" width=10%>
 
 # References
-* The VirusTotal-May-2020-Android-Image dataset
-* https://github.com/rikima-mitsuhashi/VirusTotal-May-2020-Android-Image
-* The Drebin-20-DEX-Image datase
-* https://github.com/rikima-mitsuhashi/Drebin-20-DEX-Image
+* The VT-May-2020-Android-Image dataset
+* https://github.com/rikima-mitsuhashi/VT-May-2020-Android-Image
+* The DR-20-DEX-Image datase
+* https://github.com/rikima-mitsuhashi/DR-20-DEX-Image
