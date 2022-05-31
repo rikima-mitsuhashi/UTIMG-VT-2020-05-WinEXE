@@ -22,8 +22,8 @@
 * Download Win32_EXE.7z from 2020-05-06 folder.
 
 ### 3. Unzip malware files
-* See the README of the VirusTotal Malware Sample folder.
-* Note that these are real malware.
+* A password is written in the README of the VirusTotal Malware Sample folder.
+* Note that unzipped files are real malware.
 
 ### 4. Make directory and copy malware files
 * The following steps are confirmed in Ubuntu 20.04 LTS.
